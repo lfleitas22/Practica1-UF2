@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="activitat2.xsl"?>
+<!-- L'anterior linea enllaça XML amb XSL-->
+<empresa>
+    <!-- La marca treballadors-->
+    <treballador>
+        <!-- Aquestes marques, subchild, es on aniran les dades-->
+        <nom>Jose</nom>
+        <cognoms>Cortes Fontanillas</cognoms>
+    </treballador>
+    <treballador>
+        <nom>Samuel </nom>
+        <cognoms>De Luque</cognoms>
+    </treballador>
+    <treballador>
+        <nom>Ruben </nom>
+        <cognoms>Doblas Garatea</cognoms>
+    </treballador>
+    <treballador>
+        <nom>Pol </nom>
+        <cognoms>Valerio Andres</cognoms>
+    </treballador>
+    <!-- Així es tanca una linea de codi-->
+</empresa>

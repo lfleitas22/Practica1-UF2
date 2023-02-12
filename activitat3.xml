@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="activitat3.xsl"?>
+<!-- La linea anterior enllaça XML amb XSL-->
+<!-- Aquest es un XML sobre el llistat d'una Empresa-->
+<empresa>
+    <!-- La marca treballadors-->
+    <treballador>
+        <!-- Aquestes marques, subchild, es on aniran les dades-->
+        <dni>12345678A</dni>
+        <nom>Adrian</nom>
+        <cognoms>Cortes Fontanillas</cognoms>
+        <entrada>12/3/2009</entrada>
+        <SeguretatS>555501234</SeguretatS>
+        <altura>173</altura>
+    </treballador>
+    <treballador>
+        <dni>18374652A</dni>
+        <nom>Samuel </nom>
+        <cognoms>De Luque</cognoms>
+        <entrada>12/4/1989</entrada>
+        <SeguretatS>525201434</SeguretatS>
+        <altura>193</altura>
+    </treballador>
+    <treballador>
+        <dni>87654321A</dni>
+        <nom>Ruben </nom>
+        <cognoms>Doblas Garatea</cognoms>
+        <entrada>17/7/2020</entrada>
+        <SeguretatS>555504321</SeguretatS>
+        <altura>120</altura>
+    </treballador>
+    <treballador>
+        <dni>14286789A</dni>
+        <nom>Laia </nom>
+        <cognoms>Jaramillo Idalgo</cognoms>
+        <entrada>20/8/2014</entrada>
+        <SeguretatS>555509023</SeguretatS>
+        <altura>169</altura>
+    </treballador>
+    <treballador>
+        <dni>93064566A</dni>
+        <nom>Carlos</nom>
+        <cognoms>Valerio Andres</cognoms>
+        <entrada>1/7/2018</entrada>
+        <SeguretatS>432101234</SeguretatS>
+        <altura>143</altura>
+    </treballador>
+    <treballador>
+        <dni>93063786A</dni>
+        <nom>Pau </nom>
+        <cognoms>Andres Cortes</cognoms>
+        <entrada>10/12/2004</entrada>
+        <SeguretatS>432123414</SeguretatS>
+        <altura>140</altura>
+    </treballador>
+    <treballador>
+        <dni>93063123A</dni>
+        <nom>Fernando </nom>
+        <cognoms>Pérez Morera</cognoms>
+        <entrada>10/12/2022</entrada>
+        <SeguretatS>432411223</SeguretatS>
+        <altura>190</altura>
+    </treballador>
+<!-- Així es tanca una linea de codi-->
+</empresa>
